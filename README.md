@@ -26,3 +26,6 @@ minimal post-processing.
 - Final Report Submitted
 - ESP32 code 
 - Presentation
+
+## Circuit Diagram
+![alt text](CircuitDiagram.png)
