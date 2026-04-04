@@ -26,6 +26,7 @@ minimal post-processing.
 - Final Report Submitted
 - ESP32 code 
 - Presentation
+- Data compiled and plotting scripts
 
 ## Circuit Diagram
 ![alt text](CircuitDiagram.png)
